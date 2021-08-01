@@ -1,6 +1,6 @@
 # Custom dwmblocks build
 
-***Forked form dwmblocks-distrotube***  
+***Forked from dwmblocks-distrotube***  
 
 **Small changes:**  
 
